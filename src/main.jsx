@@ -44,7 +44,7 @@ const projects = [
 
 const visualWorks = [
   {
-    title: "5月09 高清影像",
+    title: "五月影像视觉作品",
     label: "May 09 / HD Video",
     type: "video",
     src: asset("may09-visual-work.mp4"),
